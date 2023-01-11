@@ -7,10 +7,8 @@ http://txtest-xp2p.p2p.huya.com/src/1524418081-1524418081-6547325803326078976-30
 http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
 #EXTINF:-1,吴孟达
 http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
-#EXTINF:-1,林正英1
-http://epg.112114.xyz/douyu/218859
-#EXTINF:-1,林正英2
-http://epg.112114.xyz/douyu/7356023
+#EXTINF:-1,林正英
+http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
 #EXTINF:-1,沈腾
 http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
 #EXTINF:-1,甄子丹
@@ -43,12 +41,12 @@ http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-30
 http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
 #EXTINF:-1,古装武侠
 http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
-#EXTINF:-1,经典武侠
-https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/298214/live_179302204_68184269.m3u8
 #EXTINF:-1,香港女神系列
 http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
 #EXTINF:-1,搞笑一家人
 http://txtest-xp2p.p2p.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.xs
+#EXTINF:-1,经典武侠剧
+https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/298214/live_179302204_68184269.m3u8
 #EXTINF:-1,倚天屠龙记
 http://txtest-xp2p.p2p.huya.com/src/1394565214-1394565214-5989611986269241344-2789253884-10057-A-0-1.xs
 #EXTINF:-1,康熙王朝
